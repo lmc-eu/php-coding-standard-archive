@@ -1,4 +1,8 @@
-# Alma Career Czechia Coding Standard for PHP
+# Alma Career Czechia (formerly LMC) Coding Standard for PHP
+
+> [!CAUTION]
+> This repository is deprecated. See [Alma Career Coding Standard for PHP](https://github.com/alma-oss/php-coding-standard)
+> repository and [almacareer/coding-standard](https://packagist.org/packages/almacareer/coding-standard) package for replacement.
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/lmc/coding-standard.svg?style=flat-square)](https://packagist.org/packages/lmc/coding-standard)
 
